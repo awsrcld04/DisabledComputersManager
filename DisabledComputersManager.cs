@@ -771,8 +771,6 @@ namespace DisabledComputersManager
             dCatchTable.Add("funcCreatePrincipalContext", "f5");
             dCatchTable.Add("funcErrorToEventLog", "f6");
             dCatchTable.Add("funcGetFuncCatchCode", "f7");
-            dCatchTable.Add("funcLicenseActivation", "f8");
-            dCatchTable.Add("funcLicenseCheck", "f9");
             dCatchTable.Add("funcModifyDisabledComputers", "f10");
             dCatchTable.Add("funcMoveDisabledComputers", "f11");
             dCatchTable.Add("funcOpenOutputLog", "f12");
