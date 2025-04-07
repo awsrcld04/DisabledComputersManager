@@ -188,8 +188,6 @@ namespace DisabledComputersManager
                         
                         funcToEventLog("DisabledComputersManager", "DisabledComputersManager started.", 100);
 
-                        funcProgramRegistryTag("DisabledComputersManager");
-
                         funcModifyDisabledComputers(newParams);
 
                         //funcMoveDisabledComputers(newParams);
