@@ -1,0 +1,15 @@
+// Location in Active Directory to place disabled computers
+DisabledComputersLocation=OU=DisabledComputers,OU=DisabledObjects,DC=mylab,DC=local
+
+// Prefix for computers to exclude from being processed
+ExcludePrefix=
+
+// Suffix for computers to exclude from being processed
+ExcludeSuffix=DC01
+
+// Specific computers to exclude from being processed
+//	Automatic exclusion: (All domain controllers)
+Exclude=
+
+// Number of days to wait before removing disabled computers
+DisabledHoldPeriod=30
