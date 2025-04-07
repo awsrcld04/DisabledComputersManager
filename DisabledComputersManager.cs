@@ -1,9 +1,4 @@
-﻿//****************************************
-// Copyright (c) Thinkability Group 2011
-// SystemsAdminPro.com
-//****************************************
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
