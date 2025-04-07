@@ -754,7 +754,6 @@ namespace DisabledComputersManager
             dCatchTable.Add("funcPrintParameterSyntax", "f15");
             dCatchTable.Add("funcPrintParameterWarning", "f16");
             dCatchTable.Add("funcProgramExecution", "f17");
-            dCatchTable.Add("funcProgramRegistryTag", "f18");
             dCatchTable.Add("funcRemoveComputerFromGroup", "f19");
             dCatchTable.Add("funcRemoveComputers", "f20");
             dCatchTable.Add("funcToEventLog", "f21");
