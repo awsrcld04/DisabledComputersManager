@@ -40,7 +40,7 @@ namespace DisabledComputersManager
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("DisabledComputersManager v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("DisabledComputersManager v1.0");
             Console.WriteLine();
             Console.WriteLine("Description: Manage disabled computers");
             Console.WriteLine();
